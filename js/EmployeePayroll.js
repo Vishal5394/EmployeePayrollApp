@@ -1,13 +1,13 @@
 class EmployeePayrollData{
 
-    get id()
-    {
+     get id()
+     {
         return this._name;
-    } 
-    set id(id){
+     } 
+     set id(id){
         this._id = id;
-    }
-    get name(){
+     }
+     get name(){
         return this._name;
      }
         set name(name)
